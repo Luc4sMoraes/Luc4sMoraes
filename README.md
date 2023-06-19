@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luc4sMoraes
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Redes
+- 👀 I’m interested in Python, Javascript and Shell
+- 🌱 I graduated in systems analysis and development and specialized in computer networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lucas.vlm@outlook.com
 
