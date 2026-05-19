@@ -14,9 +14,9 @@
 
 | 💻 Dev | 🌐 Infra | ⚙️ Automação |
 |--------|----------|--------------|
-| Python | Redes TCP/IP | Shell Script |
-| Bash | Infraestrutura | DevOps |
-| Git | Linux |
+| * | * | * |
+|  | Infraestrutura |  |
+|  | Linux |
 
 ---
 
