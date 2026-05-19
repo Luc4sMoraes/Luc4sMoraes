@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Luc4sMoraes
-- 👀 I’m interested in Python, Javascript and Shell
-- 🌱 I graduated in systems analysis and development and specialized in computer networks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lucas.vlm@outlook.com
+# Ei!  👋🚀
 
-<!---
-Luc4sMoraes/Luc4sMoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Os céus declaram a glória de Deus; o firmamento proclama a obra das suas mãos - Salmos 19:1-2
+
+## ⚡ 
+
+🌐 **Infraestrutura & Redes** 
+🤖 **Automação & DevOps** 
+🔍 **Sempre aprendendo** 
+
+---
+
+## 🛠️ Stack & Interesses
+
+| 💻 Dev | 🌐 Infra | ⚙️ Automação |
+|--------|----------|--------------|
+| Python | Redes TCP/IP | Shell Script |
+| Bash | Infraestrutura | DevOps |
+| Git | Linux |
+
+---
+
+## 📫 
+
+Se quiser conversar sobre projetos ou só bater um papo sobre automação,
+
+[![Email](https://img.shields.io/badge/Email-lucas.vlm%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucas.vlm@outlook.com)
