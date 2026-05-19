@@ -1,5 +1,3 @@
-# Ei!  👋🚀
-
 > Os céus declaram a glória de Deus; o firmamento proclama a obra das suas mãos - Salmos 19:1-2
 
 ## ⚡ 
